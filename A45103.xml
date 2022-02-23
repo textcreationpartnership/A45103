@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the two most honourable Houses, the Lords and Commons in Parliament assembled, an humble representation of the sad and distressed case of many thousands of their most gratious Majesties loyal seamen, or their widows, aged parents, or other friends or relations and an humble supplication in behalf of all the said distressed and all other the seamen of England and Scotland.</title>
+            <author>Hodges, William, Sir, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45103</idno>
+            <idno type="STC">Wing H3642</idno>
+            <idno type="STC">ESTC R31132</idno>
+            <idno type="EEBO-CITATION">11780363</idno>
+            <idno type="OCLC">ocm 11780363</idno>
+            <idno type="VID">49022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the two most honourable Houses, the Lords and Commons in Parliament assembled, an humble representation of the sad and distressed case of many thousands of their most gratious Majesties loyal seamen, or their widows, aged parents, or other friends or relations and an humble supplication in behalf of all the said distressed and all other the seamen of England and Scotland.</title>
+                  <author>Hodges, William, Sir, 1645?-1714.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: William Hodges.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sailors --  Great Britain.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49022:1" rendition="simple:additions"/>
+            <head>To the Two Moſt Honourable Houſes, The <hi>Lords</hi> and <hi>Commons</hi> in Parliament Aſſembled, An Humble Repreſentation of the Sad and Diſtreſſed Caſe of many Thouſands of Their Moſt Gratious Majeſties Loyal Seamen, or their Widows, Aged Parents, or other Friends or Relations, and an Humble Supplication in behalf of all the ſaid Diſtreſſed, and all other the Seamen of <hi>England</hi> and <hi>Scotland,</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT whereas by the Bleſſing of God on Their Majeſties and theſe Nations, the Seamen of <hi>England</hi> and <hi>Scotland</hi> have been intirely in the Intereſt of Their Majeſties, and Defence of theſe Nations: But in their ſaid Service have many Thouſands loſt their Lives by the Sword or Sickneſs: And whereas it hath been the Cuſtom for Two Years laſt paſt, at pay of the Fleet in the Spring, to pay only ſuch as appeared in Perſon on Board their ſeveral Ships, ſo that thoſe who loſt their Lives againſt the <hi>French,</hi> under the Valiant and Loyal Com<g ref="char:EOLhyphen"/>mander Admiral <hi>Ruſſel,</hi> and all thoſe who are diſcharged, Dead, or Sick, or Lame, or otherwiſe, or turn'd over from Ship to Ship, and could not appear on Board in Perſon were ordered themſelves, or their Wives, Widows, Aged Parents, or other Relations, to Attend at <hi>Broad-ſtreet</hi> for the Ships to be Re-call'd for Payment, and in order to Pay the ſaid Diſtreſſed Widows and others, there was a Liſt put up in <hi>October</hi> 1692, of about 166 Ships to be paid; But after the waiting of Thouſands from Week to Week, and Month to Month, there was not one quarter part of the ſaid Ships paid all that Year after, and ſo there was Twelve or Fifteen Thouſand Men unpaid, as by the ſaid Ships Books may appear. And to add to the Miſery of many after long waiting of Thouſands, ſome Books were like to be made up before they were paid: But on an Humble Petition to Her Moſt Gratious Majeſty in Coun<g ref="char:EOLhyphen"/>ſel, there was an order to relieve the ſaid Diſtreſſed, by the paying them their Wa<g ref="char:EOLhyphen"/>ges earned with the loſs of ſome Thouſands of their Lives, and a Liſt put up in <hi>Broadſtreet</hi> of near Two Hundred Ships, and about Thirty Thouſand Men to be paid, as by the Liſt at the Navy Office, and the Books of the ſeveral Ships will ap<g ref="char:EOLhyphen"/>pear, it being put up in <hi>September</hi> laſt, and not one quarter of the ſaid Diſtreſſed paid to this Day, whereby many diſtreſſed Widows and Families are under very ſore Affliction, as by theſe particulars following may appear:</p>
+            <p>
+               <hi>Firſt,</hi> There are many Ships that have above Four Years Pay due already, and Six dead or Diſcharged to, and that came home, and were paid, thoſe Ships are put up, ſome after a Hundred, and ſome after a Hundred and Sixty Ships, ſo that if there be but Forty or Fifty Ships paid in a Year, it will be above Two Years more before the ſaid Diſtreſſed Widows and others will be paid for that Money that was Earned above Four Years paſt, as by the Liſt a Copy of which ready to be preſen<g ref="char:EOLhyphen"/>ted may appear more at large.</p>
+            <p>
+               <hi>Secondly,</hi> Some Ships are put up Twice or Thrice to be paid ſome Moneths one time, and ſome Moneths another time, and at ſo great a diſtance, that ſome is like to be paid one Year, and ſome another, which might have been paid altogether, and been a great Eaſe to the Honourable Commiſſioners and Pay-Maſters, and Re<g ref="char:EOLhyphen"/>lieved the ſad Afflicted and Diſtreſſed from waiting Year after Year as they have done already, many of them.</p>
+            <p>
+               <hi>Thirdly,</hi> Many of theſe Diſtreſſed Families live in the North and Weſt of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and many Widows in <hi>Scotland,</hi> It may prove a more Miſerable Charge or Loſs to ſome to wait for their Pay at ſuch an Uncertainty, than to looſe it quite.</p>
+            <p>
+               <hi>Fourthly,</hi> Many Seamen being turned over into Two or Three Ships, and have Pay due in every one of them; and they being many times ſent out to Sea, and they cannot appear in their Perſons ſometimes at the Pay of the Fleet, whereby many of them have neither Money to buy their Families Bread, or themſelves Clothes for Their Majeſties Service without Credit.</p>
+            <p>
+               <hi>Fifthly,</hi> And indeed ſeveral of the ſaid Seamen, or their Diſtreſſed Families ha<g ref="char:EOLhyphen"/>ving nothing but Credit to live upon year after year, and ſome that have truſted them for Rent, Clothes, Victuals, and other Neceſſaries; theſe not being paid, are
+<pb n="1" facs="tcp:49022:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:49022:3"/>ſome of them almoſt Ruin'd alſo, and others that have to incourage Their Majeſties Service and Their Seamen taken the Pay of ſome of the ſaid Seamen at the full Va<g ref="char:EOLhyphen"/>lue, and others given them within Three or Four Shillings in the Pound ready Mo<g ref="char:EOLhyphen"/>ney for the ſame, and neither they nor the Seamen, neither the Tradeſmen and others being paid, the Seamen and their Families are now brought into ſo grear diſtreſs for the want of Money or Credit as formerly they had.</p>
+            <p>
+               <hi>Sixthly,</hi> That the Seamen or their Wives are forced to go from place to place to any Extortioner that will buy their Tickets, and pay at Ten Shillings in the Pound loſs, as ſeveral have done, and ſometimes more than half loſs.</p>
+            <p>
+               <hi>Seventhly,</hi> And the ſaid Seamen are forced to give Bond to thoſe that buy the ſame at half loſs, that if Their Majeſties do not pay it in a prefixed time, then the ſaid Seamen muſt make it good, whereby the Seamen are ſeveral of them in Bonds for time to come, to the great diſcouragement of Their Majeſties Seamen; and many of them have this laſt Year deſerted Their Majeſties Service, as by the ſeveral Ships Books will appear.</p>
+            <p>
+               <hi>Eighthly,</hi> The Seamen or their Families muſt live on Credit, or be Relieved by Charity, until they are paid; or if not, ſome of their Families muſt periſh. And if that Sickneſs or Death of Seamen, or the being turned over from Ship to Ship ſhould hinder the being paid: Or if the Extortioners be ſuffered to buy their Pay at half loſs, that they cannot pay their Debts, it cannot then be ſafe, for Landlords, Tradeſ<g ref="char:EOLhyphen"/>men or Chandlers to truſt to Seamen for time to come.</p>
+            <p>
+               <hi>Ninthly,</hi> But it may be preſumed by all good Men, that neither Their Moſt Ex<g ref="char:EOLhyphen"/>cellent and Gratious Majeſties, neither the Juſt, Honourable and Loyal <hi>Engliſh</hi> No<g ref="char:EOLhyphen"/>bility, and Knights and Gentry being now Aſſembled in Parliament, have ever been rightly informed of the diſtreſſed Caſe of the ſaid deplorable Seamen or their Fami<g ref="char:EOLhyphen"/>lies, and there is not any Cauſe to doubt, but on an Humble Information of the Caſe aforeſaid, they will be more ready abundantly to Relieve the ſame, than any can be to inform them of the ſadneſs of the Caſe, which cannot be expreſſed in a few words.</p>
+            <p>
+               <hi>Tenthly,</hi> And if the Honourable Houſe of Commons, who have Voted ſo Loyally and Heartily, as Faithful to Their Majeſties and theſe Nations for Money for the Seamen, would Appropriate Four or Five Thouſand Pound the Week to be conſtantly paid for the Relief of the Diſtreſſed, they Might be all paid by Michaelmas next, and in that time it may be ſuppoſed there will be Fifteen Thouſand more to pay at <hi>Broad-ſtreet:</hi> If as it may be ſuppoſed that Time and Money will not admit of paying any this Spring at the <hi>Nore</hi> or <hi>Portſmouth,</hi> becauſe of ſending out the Fleet Early, and if ſo there having been Two or Three Thouſand dead in the <hi>Weſt-India</hi> Fleet this Year, and many Thouſands dead or diſcharged by Sickneſs or Lame<g ref="char:EOLhyphen"/>neſs, or otherwiſe, or turned over in the Grand Fleet, ſo that Their Majeſties will have a continual uſe of Credit; And your Honours now you are informed of the State of the Caſe, may order Relief, as your Honours in great Wiſdom ſhall think fit; And I would in behalf of Their Majeſties Seamen humbly intreat your Honours, That,</p>
+            <p>
+               <hi>Firſt,</hi> It might be ſo ordered, That the Ships that have been unpaid above Four Years may be paid firſt, and ſo every Ship that hath Pay longeſt due might be paid next.</p>
+            <p>
+               <hi>Secondly,</hi> And that a new Liſt might be put up of all the Ships unpaid in the Or<g ref="char:EOLhyphen"/>der aforeſaid for the Relief of the ſaid Diſtreſſed.</p>
+            <p>
+               <hi>Thirdly,</hi> That there might be Publick Notice given in the <hi>Gazete</hi> how many Ships are put up, and when to begin the ſame, and ſo every Moneth to give notice how far they have gone.</p>
+            <p>
+               <hi>Fourthly,</hi> And by this means all the Seamens Widows in <hi>England</hi> and <hi>Scotland</hi> might give a near gueſs when to expect their Money.</p>
+            <p>
+               <hi>Fifthly,</hi> And I would in behalf of the ſaid Widows intreat your Honours that thoſe Ships that have Money due at Two or Three Payments, that is, that have been paid Three times on Board before they are cleared on the Shoar, may be put up to be paid all the Pay due in each Ship for the ſaid Three Diviſions to be paid all at once; and in ſo doing, you would ſave the Miſerable Diſtreſſed from waiting Year after Year two or three times for One Sum of Money.</p>
+            <p>
+               <hi>Sixthly,</hi> If this Method were taken, it would be the way to put New Life into the Seamen, and if that it were once known, that ſo ſoon as Their Majeſties and the
+<pb n="3" facs="tcp:49022:4"/>Two Honourable Houſes were informed of their Miſery, that they had Relief Or<g ref="char:EOLhyphen"/>der'd, and Publick Notice given in the <hi>Gazette</hi> that they were all order'd to be paid in reaſonable time, it would be the way to incourage the Wives, and Parents, and Maſters of the Seamen in every Sea-Port-Town in <hi>England,</hi> to let their Husbands or Children, or Servants go freely into Their Majeſties Service, as finding that it was only a Misfortune not inform'd of that cauſed ſo many Widows or Aged Parents to be unpaid, but that now come Life, come Death, or come turning over from Ship to Ship, ſtill Their Majeſties Pay is the moſt ſafe and certain Pay in <hi>England,</hi> and none to be eſteemed of like Excellence for certainty.</p>
+            <p>
+               <hi>Seventhly,</hi> And I would humbly inform the Honourable Houſes, That if there were a Committee Appointed to hear the Grievances of the Seamen or their Families that might order Publick Notice at the Pay-Office and Navy-Office, and alſo in the Gazette, That if any Seamen have been either Cheated of their Tickets by any Clerks of their Ships, or have had their Pay Received wrongfully, or their Tickets Detain<g ref="char:EOLhyphen"/>ed wrongfully, or been Trick't out of them for a ſmall Value, that in thoſe Caſes they ſhould be heard freely, and have Juſtice done them, it would perhaps be a great Relief to many, and alſo be incouragement to all the Seamens Families in <hi>England,</hi> for to ſerve Their Majeſties, as finding that they cannot be wronged, without it be their own fault: and if they will manifeſt their wrong, they ſhall have what Re<g ref="char:EOLhyphen"/>leif can be expected; and in doing this, your Honours will alſo ſave a great deal of Trouble to Their Majeſties Honourable Commiſſioners of the Navy, that they might not be interrupted with ſuch a multitude of Petitions now they are concerned in ſo much buſineſs of a great Nature in other Affairs of the Navy.</p>
+            <p>
+               <hi>Eighthly,</hi> I would in behalf of the ſaid Seamen humbly beg, That if it could be prevented, they might not be indeed ſimply Cowardly, or otherwiſe, Delivered up to the <hi>French,</hi> as the <hi>Jerſey, Diamond,</hi> or ſome other Ships have been; and alſo that there might be care taken not to allow any Officer to hide or ſteal Powder enough to blow them up, as the <hi>Exeter</hi> was, and if not, alſo the <hi>Breda;</hi> and that there might not be ſo many Ships knockt on the head in good Weather, as the <hi>Windſor-Caſtle</hi> was, and ſeveral more, and ſome drown'd, whereby in all theſe Caſes the Seamen ſuffer loſs of Clothes, if not of Life and Liberty; and perhaps Their Majeſties have loſt 30 or 40 Ships, to the Value of a Million of Money, and in ſo little time, as no Age can parallel, and except the <hi>Anne</hi> and the <hi>Portſmouth,</hi> and perhaps Ten or Twelve more, moſt of the reſt were made away ſo ſtrangely, without fair Valiant Fighting, as Brave Old <hi>Engliſh</hi> Men uſed to do, that ſome of them have looked like Ships Murdered I do not know how; And if your Honours would but inquire into it, perhaps I may give you moſt of the Ships Names ſo loſt; but perhaps it will be hard to find the reaſon how ſome were loſt: But if you ſhould ask me if it were from Heaven or of Men, it may be I might with ſubmiſſion ſay, If it were from Men, then if they are found faulty they ſhould be puniſhed; and if from Heaven, then Humiliation, Supplication and Reformation were the way to prevent it for time to come, and ſo it would be well if the Reverend the Biſhops would ſend a Sound Pious Miniſter of the Church of <hi>England</hi> into every Man of War, to be a Man of Sobriety and good Converſation, and alſo a Man of Courage to Reprove every Vice he hath opportunity conveniently to do, and to Rebuke and Exhort, and that he might read the Prayers of the Church twice every Day, and alſo Read Two Homilies every Sunday out of that moſt Excellent Book of Homilies, worth its weight in Gold, and worthy to be kept in every <hi>Engliſh</hi> Mans Houſe, which was ſet forth in King <hi>Edward</hi> the Sixths dayes, and in Queen <hi>Elizabeths,</hi> and Three Kings Reigns ſince, and Eſtabliſhed by the Church of <hi>England</hi> in the Thirty Nine Articles, and therein the Seamen might hear that Swearing and Curſing, and other Enormities, are things that the Church abhors, and that Sobriety, Vertue, Repentance, and Ho<g ref="char:EOLhyphen"/>lyneſs are not Novelty nor Phanatical, but the real Fundamental Doctrine of the Church of <hi>England,</hi> and ſuch, as all that own the Church, ought to ſtand by, unleſs they pretend one thing, and do another; And indeed it is moſt dreadful to think, that any called Chriſtians ſhould Night and Day be Calling on God to Damn them, and the Devil to Damn them, as if they thought they could not have it time enough without ingaging God to ſend it, and the Devil to Execute it, and I ſuppoſe all the Hiſtories of the <hi>Heathens</hi> and <hi>Indians</hi> cannot parallel ſuch abominable a Practice; But to endeavour to Reform, this muſt be left to your Honours Great Wiſdom and Judgment; and I would intreat your Honours Pardon for my mentioning this:
+<pb n="2" facs="tcp:49022:5"/>But however, as the Church taketh Care to pray dayly for a Bleſſing on the War, ſo if any thing could be prevented that called for a Curſe, it would be a great Mercy to theſe Nations: And as there is and muſt be a Continual Neceſſity of Seamen in Peace and War, ſo long as the World indure, ſo it were to be wiſhed, that there could be ſome wayes found out for their incouragement in the Service, and for the better Regulating their Converſation; and they for the moſt part not being uſed to take Care to lay up for their Families beforehand, it is a very great miſery as to their Families to be kept out of Money Four or Five Years; and if your Honours would conſider whether it be for their Majeſties Intereſt for Ships to ſtay Abroad Three or Four Years, and Bury or Diſcharge Sick, or otherwiſe Six times as many as they bring home; whereas if they went and came every Year as the Merchant-Ships do, they would Increaſe Seamen, and Incourage their Families alſo; and if there could be a Method found out that there might not any be ſuffered to Admini<g ref="char:EOLhyphen"/>ſter, as their Wives, who are not, or to Receive their Pay without a Lawful Power, it might peradventure ſave the Seamen their Pay more ſecure, and ſave a great deal of Trouble and Difficulty to Their Majeſties Commiſſioners in Payment, and alſo peradventure ſave ſome Thouſands of Pounds to Their Majeſties for time to come in ſome Nature, which perhaps Their Majeſties, and neither your Honours know not of; for it falls out ſometimes that there are many Dead or gone out of Ships, that none of their Friends knew where they were; and I ſuppoſe Their Majeſties deſerve the Money before Strangers; And I wiſh there were alſo ſome way found out to incourage Seamen for Their Majeſties Service, to look out on the Top of the Maſt ſometimes for the <hi>French,</hi> that they that ſee them firſt, might have a Reward, ſince it is ſo ſtrange a thing, that the Sea ſhould be ſo full of <hi>French,</hi> a Merchant-Man can hardly go without Convoy, but he is taken; and yet that the Sea ſhould be ſo clear of <hi>French,</hi> that our Men of War can ſeldom ſee them; I ſuppoſe the <hi>French</hi> have good Eyes, and as Cats, have liberty to run all over the Houſe to Catch a Mouſe, and are not Chained up as Maſtiffs that can hurt none, except they come in the length of their Chain: And if your Honours would ſend for ſome of the Sea<g ref="char:EOLhyphen"/>men to give an Account to ſome Committee what Incouragement they have when they do happen to take a Ship, whether they have any more than they can hide, or is not worth taking from them; And indeed, as Their Majeſties do Reward thoſe who looſe Lives and Limbs, ſo it were to be wiſhed they that live had ſome more Incouragement alſo; and it were to be wiſhed that the Merchants would give ſome Incouragement to thoſe who do loſe their Lives in Their Service or their Limbs, and would not ſuffer them to Pay ſo much to Chirurgeons for their Cure; neither that any of them ſhou'd be forced to go to Law for their Wages after they have gotten their Ships home clear from the Enemies, that ſo they might be more encouraged alſo; and that if any Men were almoſt half ſtarved, at any time, either coming from the <hi>Indies,</hi> or otherwhere, they might be allowed, to their Pocket, the Value of what is pinched out of their Bellies. This Their Majeſties do for all Men of War, if there be occaſion, and it is pitty that the Merchant Ships do not ſo alſo. But I muſt moſt Humbly intreat Your Honours Gracious Pardon, and that the poor diſtreſſed may not ſuffer for the unworthineſs of my Requeſting their Caſe; and may their Prayer, and the Bleſſings of the Eternal <hi>JEHOVAH,</hi> the Bleſſed and Glorious <hi>Trinity</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in <hi>Trinity,</hi> Reſt on the Heads and Hearts of Their Moſt Gratious Majeſties, and all your Honours, and theſe Nations, and on your Honours Humble Servant, and his Family to Command,</p>
+            <closer>
+               <dateline>
+                  <hi>Hermitage,</hi> 
+                  <date>
+                     <hi>June</hi> 19th. 1693.</date>
+               </dateline>
+               <signed>William Hodges.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
